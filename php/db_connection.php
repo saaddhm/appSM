@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'social_app';
+$dbname = 'dbname';
 $username = 'root';
 $password = ''; // Replace with your database password
 
