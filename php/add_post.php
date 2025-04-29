@@ -4,7 +4,7 @@ include 'db_connection.php';
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
-// Get POST data
+// Get POST 
 $user_id = $_POST['user_id'];
 $content = $_POST['content'];
 $image_url = $_POST['image_url'] ?? null;
